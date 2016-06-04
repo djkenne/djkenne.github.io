@@ -1,0 +1,7 @@
+---
+layout: post
+title: "I finally started a personal site..."
+date: 2016-06-04
+---
+
+Well. Finally got around to putting a personal site together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
