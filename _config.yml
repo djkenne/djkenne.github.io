@@ -1,2 +1,5 @@
 name: David Kennedy
 markdown: kramdown
+
+# Setup permalinks for blog posts.
+permalink: /blog/:year/:month/:day/:title
