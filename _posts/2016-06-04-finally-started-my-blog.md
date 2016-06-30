@@ -6,6 +6,7 @@ categories: intro
 tags: featured
 published: true
 image: /assets/article_images/2016-06-04-finally-started-my-blog/tulips.jpg
+image2: /assets/article_images/2016-06-04-finally-started-my-blog/tulips-mobile.jpg
 ---
 
 Well I finally started my blog...and I must say that it's been a long time coming. After quite a bit of procrastinating, I told myself it was time to stop just lurking on others people's blogs and start contributing. 
